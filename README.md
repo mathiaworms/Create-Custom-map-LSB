@@ -15,7 +15,7 @@ I can't enumerate all but THANKS .
 At first , you need use LeagueSandBox or other Emulator of L0L , in this exemple i will use LeagueSandBox Version december 2021 
 (The tutorial can be doesn't work with other version, LeagueSandBox is frecently updated , i will try to update this page in the same time )
 
-```markdown
+
 I put the last version of LeagueSandBox , search in commit if you want old version :) 
 # [Gameserver ( LeagueSandBox ) ](https://https://github.com/LeagueSandbox/GameServer)
 # [L3ague 0f L3gend 4.20 Version Scrubbed ( Moddable ) ](https://drive.google.com/file/d/1JVUGe75nMluczrY14xb0KDXiihFRlGnV/edit)
@@ -29,7 +29,7 @@ This one is for edit position of turret, inhibitor, nexus , bush and "levelprop"
 # [Extract RGB Pixel Color Data From Multiple Images Software](https://www.sobolsoft.com/extractrgbpixel/)
 This extract from bmp file , file txt with position of pixel and their color ( free version need "delete line from txt")
 
-```
+
 ## At first 
 
 At first , you need have a fonctionnal Gamesever , for that , go on github and read the Readme ! if you can't stop tutorial now :'( 
@@ -40,17 +40,19 @@ Wooxy is a tools can custom your LOL , that we need is MapEditor  :
 ![Image](https://i.imgur.com/N9yO9qh.png)
 ![Image](https://i.imgur.com/f4NiA4m.png)
 ![Image](https://i.imgur.com/Dl3SvGP.png)
-At 1 : 
+- At 1 : 
 Select your WGEO File : ( the only one we have is NEWSR)
 \League-of-Legends-4-20\RADS\solutions\lol_game_client_sln\releases\0.0.1.68\deploy\LEVELS\map11\Scene\room.wgeo
-at 2 : 
+
+- at 2 : 
 \League-of-Legends-4-20\RADS\solutions\lol_game_client_sln\releases\0.0.1.68\deploy\LEVELS\map11\Scene\textures
-at 3 : 
+
+- at 3 : 
 \League-of-Legends-4-20\RADS\solutions\lol_game_client_sln\releases\0.0.1.68\deploy\LEVELS\map11\Particles.dat
-at 4: 
+- at 4: 
 Texture quality , i recommend 100% ( for me i have crash when is before than 100% )
 ![Image](https://i.imgur.com/VAFFpnc.png)
-In left you can see all model , you can export them or modificate their emplacement and add texture or change texture 
+- In left you can see all model , you can export them or modificate their emplacement and add texture or change texture 
 The best way is add model 3d ! 
 ### Jekyll Themes
 
