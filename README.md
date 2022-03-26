@@ -29,7 +29,7 @@ this one is necessary because we can ( for moment) only custom WGEO file , and 4
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-[Image](https://i.imgur.com/obLeRJJ.jpeg)
+![Image](https://i.imgur.com/obLeRJJ.jpeg)
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mathiaworms/Create-Custom-map-LSB/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
