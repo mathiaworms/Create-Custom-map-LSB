@@ -1,19 +1,21 @@
-## Welcome to GitHub Pages
+## TUTORIAL FOR CREATE CUSTOM MAP 
 
-You can use the [editor on GitHub](https://github.com/mathiaworms/Create-Custom-map-LSB/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+So , it's a "tutorial' only for information , i'm not expert and you can get problems when you do that ,
+Before start all : at all readers, i will not be held responsible for any damages that could arise from using this website or softwares and acting upon the information that it contains.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For Question go on "Open issue" on github :) .
 
-### Markdown
+### What do i need for start? 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+At first , you need use LeagueSandBox or other Emulator of L0L , in this exemple i will use LeagueSandBox Version december 2021 
+(The tutorial can be doesn't work with other version, LeagueSandBox is frecently updated , i will try to update this page in the same time )
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+I put the last version of LeagueSandBox , search in commit if you want old version :) 
+# [Gameserver ( LeagueSandBox ) ](https://https://github.com/LeagueSandbox/GameServer)
+# [L3ague 0f L3gend 4.20 Version Scrubbed ( Moddable ) ](https://drive.google.com/file/d/1JVUGe75nMluczrY14xb0KDXiihFRlGnV/edit)
+this one is necessary because we can ( for moment) only custom WGEO file , and 4.20 have the new summoners rift with WGEO files :) 
+# Header 3
 
 - Bulleted
 - List
@@ -23,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://i.imgur.com/obLeRJJ.jpeg)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
